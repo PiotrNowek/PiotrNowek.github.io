@@ -1,0 +1,4 @@
+- name: Strona Główna
+  link: /
+- name: O mnie
+  link: /about.html
