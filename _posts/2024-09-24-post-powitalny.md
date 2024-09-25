@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Post powitalny"
-date: 2024-03-20
+date: 2024-09-24
 author: "Piotr Nowek"
 categories: [wprowadzenie]
 tags: [wprowadzenie]
